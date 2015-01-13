@@ -1,2 +1,3 @@
 # base_html
-gulp
+##initial command:
+	npm install
